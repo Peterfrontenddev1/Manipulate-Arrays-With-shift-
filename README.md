@@ -9,3 +9,4 @@ const ourArray = ["Stimpson", "J", ["cat"]];
 const removedFromOurArray = ourArray.shift();
 removedFromOurArray would have a value of the string Stimpson,
 and ourArray would have ["J", ["cat"]].
+Use the .shift() function to remove the first item from myArray
