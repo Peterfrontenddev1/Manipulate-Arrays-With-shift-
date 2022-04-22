@@ -5,4 +5,4 @@ That's where .shift() comes in.
 It works just like .pop(), except it removes the first element instead of the last.
 
 Example:
-
+const ourArray = ["Stimpson", "J", ["cat"]];
