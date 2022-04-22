@@ -11,6 +11,7 @@ It works just like .pop(), except it removes the first element instead of the la
 Example:
 
 const ourArray = ["Stimpson", "J", ["cat"]];
+
 const removedFromOurArray = ourArray.shift();
 removedFromOurArray would have a value of the string Stimpson,
 and ourArray would have ["J", ["cat"]].
