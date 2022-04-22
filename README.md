@@ -15,3 +15,4 @@ removedFromMyArray.
 
 myArray should now equal [["dog", 3]].
 removedFromMyArray should contain ["John", 23].
+// Setup
